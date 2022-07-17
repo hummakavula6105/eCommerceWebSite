@@ -1,0 +1,40 @@
+.product-container{
+    display: inline-block;
+    width: 15rem;
+    margin: 5rem;
+}
+
+.product-image{
+    width: 15rem;
+}
+.product-name{
+    font-weight: 500;
+    display: inline-block;
+    margin-bottom: .5rem;
+    position: relative;
+}
+.product-price{
+    display: inline-block;
+    font-weight: 500;
+    margin-bottom: .5rem;
+    left: 2rem;
+    position: relative;
+}
+.product-hr{
+    width: 10rem;
+    margin-left: 0rem;
+}
+.product-description{
+
+}
+
+.add-to-cart{
+    display: inline-block;
+    left: 4rem;
+    position: relative;
+    background-color: #BF7631;
+}
+
+.learn-more{
+    color: #BF7631;
+}
